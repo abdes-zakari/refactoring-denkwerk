@@ -1,6 +1,6 @@
 import { Head, Link, router } from "@inertiajs/react";
 import { useEffect, useState } from "react";
-import { formatPrice } from "@/Utils/helpers";
+import { formatPrice } from "@/Utils/Helpers";
 
 export default function Cart(props) {
     
