@@ -1,6 +1,6 @@
 import { useForm } from "@inertiajs/react";
 import { useEffect, useState } from "react";
-import { formatPrice } from "@/Utils/helpers";
+import { formatPrice } from "@/Utils/Helpers";
 import Toast from "@/Components/Toast";
 
 export default function ProductItem({ product }) {
